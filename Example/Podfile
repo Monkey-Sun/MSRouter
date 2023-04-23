@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MSRouter_Tests' do
+  pod 'MSRouter', :path => '../'
+  
+  
+end
